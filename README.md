@@ -1,4 +1,4 @@
-# 🌐 EnviarNet - Managed Security Service Provider
+# 🌐 ServiciosNet - Managed Security Service Provider
 
 Welcome to EnviarNet website, hosted via GitHub Pages!
 
@@ -71,4 +71,4 @@ This site is deployed using [GitHub Pages](https://pages.github.com/), a free an
 
 ---
 
-> Designed & Developed with 💙 by **EnviarNet**
+> Designed & Developed with 💙 by **ServiciosNet**
