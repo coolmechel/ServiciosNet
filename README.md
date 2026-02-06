@@ -1,4 +1,4 @@
-# 🌐 EnviarNet - Managed Security Service Provider
+# 🌐 ServiciosNet - Managed Security Service Provider
 
 Welcome to EnviarNet website, hosted via GitHub Pages!
 
